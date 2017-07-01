@@ -1,2 +1,3 @@
 # hello-world
-hello world repo
+
+Editing the file to learn more about git flow
